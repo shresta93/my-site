@@ -1,0 +1,14 @@
+languageCode = "en"
+languageName = "English"
+title = "Shresta Hegde"
+weight = 1
+
+[author]
+  name = "Shresta Hegde"
+  image = "images/profile.jpg"
+  headline = "Cloud Engineering Lead"
+  bio = "I write about cloud, DevOps, growth mindset, and building things."
+  links = [
+    { linkedin = "https://linkedin.com/in/YOUR_LINKEDIN" },
+    { github = "https://github.com/shresta93" }
+  ]

@@ -1,0 +1,15 @@
+colorScheme = "ocean"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+
+homepage.layout = "profile"
+homepage.homepageImage = "images/profile.jpg"
+homepage.showRecent = true
+homepage.recentLimit = 5
+
+article.showDate = true
+article.showReadingTime = true
+article.showTableOfContents = true
+
+list.showCards = true
+list.groupByYear = false
