@@ -3,7 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 
 homepage.layout = "profile"
-homepage.homepageImage = "images/profile.jpeg"
+homepage.homepageImage = "images/profile.jpg"
 homepage.showRecent = true
 homepage.recentLimit = 5
 
@@ -19,3 +19,7 @@ list.groupByYear = false
   image = "images/profile.jpg"
   headline = "Cloud Engineering Lead"
   bio = "I write about cloud, DevOps, growth mindset, and building things."
+  links = [
+    { linkedin = "https://linkedin.com/in/YOUR_LINKEDIN" },
+    { github = "https://github.com/shresta93" }
+  ]
