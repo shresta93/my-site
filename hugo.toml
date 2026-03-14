@@ -1,6 +1,9 @@
 baseURL = "https://shrestahegde.com/"
 languageCode = "en-us"
-theme = "congo"
+
+[module]
+  [[module.imports]]
+    path = "github.com/jpanther/congo/v2"
 
 [pagination]
   pagerSize = 5
