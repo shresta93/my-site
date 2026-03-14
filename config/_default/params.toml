@@ -16,6 +16,6 @@ list.groupByYear = false
 
 [author]
   name = "Shresta Hegde"
-  image = "images/profile.jpeg"
+  image = "images/profile.jpg"
   headline = "Cloud Engineering Lead"
   bio = "I write about cloud, DevOps, growth mindset, and building things."
