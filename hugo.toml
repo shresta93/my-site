@@ -16,7 +16,7 @@ paginate = 5
     enabled = true
     title = "Shresta Hegde"
     subtitle = "Cloud Engineering Lead. I write about tech, growth, and building things."
-    imageUrl = "/images/profile.jpeg"
+    imageUrl = "/images/profile.jpg"
     imageWidth = 120
     imageHeight = 120
     imageTitle = "Shresta Hegde"
@@ -29,14 +29,13 @@ paginate = 5
       name = "About"
       url = "/about"
 
-  [params.socialIcons]
-    [[params.socialIcons]]
-      name = "linkedin"
-      url = "https://www.linkedin.com/in/shrestahegde/"
+[[params.socialIcons]]
+  name = "linkedin"
+  url = "https://www.linkedin.com/in/shrestahegde/"
 
-    [[params.socialIcons]]
-      name = "github"
-      url = "https://github.com/shresta93"
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/shresta93"
 
 [[menus.main]]
   name = "Blog"
