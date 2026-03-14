@@ -3,7 +3,7 @@ defaultAppearance = "light"
 autoSwitchAppearance = true
 
 homepage.layout = "profile"
-homepage.homepageImage = "images/profile.jpg"
+homepage.homepageImage = "images/profile.jpeg"
 homepage.showRecent = true
 homepage.recentLimit = 5
 
@@ -12,4 +12,4 @@ article.showReadingTime = true
 article.showTableOfContents = true
 
 list.showCards = true
-list.groupByYear = false
+list.groupByYear = false    
