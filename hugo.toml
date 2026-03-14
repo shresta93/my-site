@@ -2,11 +2,41 @@ baseURL = "https://shrestahegde.com/"
 languageCode = "en-us"
 title = "Shresta Hegde"
 theme = "PaperMod"
+paginate = 5
 
 [params]
-  homeInfoParams = {Title = "Hi, I'm Shresta", Content = "Cloud Engineer. Writer. Builder."}
+  author = "Shresta Hegde"
+  description = "Cloud Engineer. Builder. Writer."
+  defaultTheme = "auto"
   ShowReadingTime = true
   ShowShareButtons = false
+  ShowPostNavLinks = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Shresta Hegde"
+    subtitle = "Cloud Engineering Lead. I write about tech, growth, and building things."
+    imageUrl = "/images/profile.jpeg"
+    imageWidth = 120
+    imageHeight = 120
+    imageTitle = "Shresta Hegde"
+
+    [[params.profileMode.buttons]]
+      name = "Blog"
+      url = "/posts"
+
+    [[params.profileMode.buttons]]
+      name = "About"
+      url = "/about"
+
+  [params.socialIcons]
+    [[params.socialIcons]]
+      name = "linkedin"
+      url = "https://www.linkedin.com/in/shrestahegde/"
+
+    [[params.socialIcons]]
+      name = "github"
+      url = "https://github.com/shresta93"
 
 [[menus.main]]
   name = "Blog"
