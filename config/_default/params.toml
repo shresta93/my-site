@@ -12,4 +12,14 @@ article.showReadingTime = true
 article.showTableOfContents = true
 
 list.showCards = true
-list.groupByYear = false    
+list.groupByYear = false
+
+[author]
+  name = "Shresta Hegde"
+  image = "images/profile.jpeg"
+  headline = "Cloud Engineering Lead"
+  bio = "I write about cloud, DevOps, growth mindset, and building things."
+  links = [
+    { linkedin = "https://linkedin.com/in/YOUR_LINKEDIN" },
+    { github = "https://github.com/shresta93" }
+  ]

@@ -1,11 +1,6 @@
-languageCode = "en"
-languageName = "English"
-title = "Shresta Hegde"
-weight = 1
-
 [author]
   name = "Shresta Hegde"
-  image = "images/profile.jpg"
+  image = "images/profile.jpeg"
   headline = "Cloud Engineering Lead"
   bio = "I write about cloud, DevOps, growth mindset, and building things."
   links = [
