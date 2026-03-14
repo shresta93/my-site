@@ -2,7 +2,8 @@ baseURL = "https://shrestahegde.com/"
 languageCode = "en-us"
 title = "Shresta Hegde"
 theme = "PaperMod"
-paginate = 5
+[pagination]
+  pagerSize = 5
 
 [params]
   author = "Shresta Hegde"
