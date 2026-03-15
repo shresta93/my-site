@@ -17,10 +17,10 @@ list.groupByYear = false
 [author]
   name = "Shresta Hegde"
   image = "images/profile.jpg"
-  headline = "Cloud Engineering Lead"
+  headline = "Cloud Engineering Manager"
   bio = "I write about cloud, DevOps, growth mindset, and building things."
   links = [
-    { linkedin = "https://linkedin.com/in/shrestahegde },
+    { linkedin = "https://linkedin.com/in/shrestahegde" },
     { github = "https://github.com/shresta93" },
     { medium = "https://medium.com/@hegdeshresta" }
   ]
