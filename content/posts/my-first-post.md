@@ -15,5 +15,3 @@ Confidence doesn't return in private, it grows in public.
 So this is my attempt at that. A place to think out loud, share ideas imperfectly, and get more comfortable being visible again.
 
 If something here resonates — I'm glad you stopped by.
-
-Hello, there.
