@@ -1,5 +1,5 @@
 [build]
-  command = "hugo"
+  command = "pip install feedparser && python scripts/fetch_medium.py && hugo"
   publish = "public"
 
 [build.environment]

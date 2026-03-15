@@ -20,6 +20,7 @@ list.groupByYear = false
   headline = "Cloud Engineering Lead"
   bio = "I write about cloud, DevOps, growth mindset, and building things."
   links = [
-    { linkedin = "https://linkedin.com/in/YOUR_LINKEDIN" },
-    { github = "https://github.com/shresta93" }
+    { linkedin = "https://linkedin.com/in/shrestahegde },
+    { github = "https://github.com/shresta93" },
+    { medium = "https://medium.com/@hegdeshresta" }
   ]
