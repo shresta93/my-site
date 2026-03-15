@@ -8,9 +8,9 @@ Hello, there.
 
 Over the past year or two, I've struggled with my confidence more than I'd like to admit. My quiet response was to retreat — upskill, learn more, and tell myself that once I was "ready," it would return.
 
-But that was partly an excuse.
+But that was just an excuse.
 
-confidence doesn't return in private, it grows in public.
+Confidence doesn't return in private, it grows in public.
 
 So this is my attempt at that. A place to think out loud, share ideas imperfectly, and get more comfortable being visible again.
 
